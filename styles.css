@@ -1,0 +1,42 @@
+div {
+    border: 1px solid black;      
+
+}
+
+.one {
+    display:flex;
+    justify-content: space-between;
+}
+
+.a { display:flex;
+    justify-content: center;
+}
+.posts {
+    display:flex;
+    justify-content: center;
+}
+.friendsList {
+    display:flex;
+    justify-content: flex-end;
+}
+
+h3 {
+    display:flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;   
+    
+}
+
+
+body { background-color: lightblue;
+   font-family:'Merriweather', serif; }
+
+
+
+ul {
+    font-family: 'Caveat', cursive;
+ 	font-size: 25px;
+    }
